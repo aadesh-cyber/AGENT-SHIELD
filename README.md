@@ -1,4 +1,4 @@
-AgentShield
+                                                Agent_Shield
 
 Stops AI agents from being tricked into moving money or data, and keeps signed proof of every decision.
 
