@@ -1,0 +1,5 @@
+# Proof logs and checkpoints are hashed byte-for-byte. Never let git
+# convert their line endings (core.autocrlf on Windows would break verify).
+*.jsonl -text
+*.checkpoint.json -text
+checkpoint.json -text
